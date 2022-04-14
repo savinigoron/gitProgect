@@ -1,0 +1,7 @@
+h1 {
+    text-align: center;
+    background-color: rgb(101, 231, 201);
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 4px 5px 4px rgb(71, 66, 66, 0.7);
+}
